@@ -1,2 +1,5 @@
-main focus
-bootstrap
+loveCars
+
+project idea - "description"
+
+-main focus bootstrap
