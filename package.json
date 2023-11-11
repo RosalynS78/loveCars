@@ -1,0 +1,8 @@
+{
+    "name": "loveCars",
+    "version": "1.0.0",
+    "author": "Your Rosalyn Scheffel <rrcervania78@gmail.com>",
+    "dependencies": {
+        "bootstrap": "^5.3.2"
+    }
+}
