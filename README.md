@@ -6,10 +6,18 @@ project idea - "car enthusiast webpage, users can signup and know when and where
 -create website easily and quickly using bootstrap framework
 -responsive
 
+<<<<<<< HEAD
+
 #### notes
 
 **diff. between react and bootstrap*
 **bootstrap** - template-based front-end framework that provides ready-made templates for building applications.(css library)
 **react** - component-based framework(for more complex, interactive app. with dynamic gui)
 
-bootstrap framework is excellent for building responsive websites quickly while tailwind provides complete design flexibility and unique approach to web design. mui is perfect for eact applications and provies clean, modern design
+*notes
+diff. between react and bootstrap
+-bootstrap - template-based front-end framework that provides ready-made templates for building applications.(css library)
+-react - component-based framework(for more complex, interactive app. with dynamic gui)
+
+Bootstrap framework is an excellent choice for building responsive websites quickly, while Tailwind provides complete design
+flexibility and a unique approach to web design. MUI is perfect for React applications and provides a clean, modern design
