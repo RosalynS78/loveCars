@@ -6,8 +6,7 @@ project idea - "car enthusiast webpage, users can signup and know when and where
 -create website easily and quickly using bootstrap framework
 -responsive
 
-
-#### notes
+notes -
 
 **diff. between react and bootstrap*
 **bootstrap** - template-based front-end framework that provides ready-made templates for building applications.(css library)
