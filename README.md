@@ -6,7 +6,6 @@ project idea - "car enthusiast webpage, users can signup and know when and where
 -create website easily and quickly using bootstrap framework
 -responsive
 
-<<<<<<< HEAD
 
 #### notes
 
